@@ -1,2 +1,2 @@
-# ISYE6501---Into-to-Analytics-Modeling
+# ISYE6501: Intro-to-Analytics-Modeling
 #various homework assignments for intro class
